@@ -1,5 +1,9 @@
 UXNitro Compact Reviews – Installation & Optimization Guide
 
+# UXNitro Fast Reviews
+## ⚡ Lightweight Review System Built for Performance
+![UXNitro Fast Reviews UI](uxnitro-fast-reviews-ui-preview.png)
+
 Plugin Version: 2.6
 Author: UXNitro
 Description: Display compact, star-rated reviews with admin moderation and WordPress comment integration.
