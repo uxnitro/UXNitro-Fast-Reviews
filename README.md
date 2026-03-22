@@ -1,6 +1,3 @@
-UXNitro Fast Reviews
-⚡ Lightweight Review System Built for Performance
-
 <h1 align="center">UXNitro Fast Reviews</h1>
 
 <h2 align="center">⚡ Lightweight Review System Built for Performance</h2>
