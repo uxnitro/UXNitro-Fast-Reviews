@@ -1,4 +1,5 @@
-UXNitro Compact Reviews – Installation & Optimization Guide
+UXNitro Fast Reviews
+⚡ Lightweight Review System Built for Performance
 
 <h1 align="center">UXNitro Fast Reviews</h1>
 
@@ -8,9 +9,6 @@ UXNitro Compact Reviews – Installation & Optimization Guide
   <img src="uxnitro-fast-reviews-ui-preview.png" alt="UXNitro Fast Reviews UI" />
 </p>
 
-# UXNitro Fast Reviews
-## ⚡ Lightweight Review System Built for Performance
-![UXNitro Fast Reviews UI](uxnitro-fast-reviews-ui-preview.png)
 
 Plugin Version: 2.6
 Author: UXNitro
