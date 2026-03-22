@@ -12,7 +12,7 @@ UXNitro Fast Reviews
 
 Plugin Version: 2.6
 Author: UXNitro
-Description: Display compact, star-rated reviews with admin moderation and WordPress comment integration.
+Description: High-performance, lightweight review system with star ratings, filtering, and minimal database overhead.
 
 1. Installation
 Download the plugin .zip file.
